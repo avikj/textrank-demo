@@ -1,0 +1,14 @@
+{
+  "name": "textrank",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of the TextRank NLP algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avik Jain <avikjain12345@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^0.4.0"
+  }
+}
