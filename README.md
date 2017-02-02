@@ -1,22 +1,19 @@
 # JavaScript TextRank Demo
 
-This repository is a simple demonstration of Brin and Page's PageRank algorithm to text for keyword extraction.
+This repository is a simple demonstration of Brin and Page's PageRank algorithm to text for keyword extraction from text.
 
-The following 15 keywords were selected by the algorithm from the [Wikipedia entry on Computer science](https://en.wikipedia.org/wiki/Computer_science).
+The following 10 keywords were selected by the algorithm from this [TIME article](http://time.com/4657474/donald-trump-enrique-pena-nieto-mexico-bad-hombres/).
 ```
-computer
-science
-computing
-software
-computers
-information
-engineering
-systems
-computation
-data
-human
-theory
-first
-used
-computational
+[
+  "foreign policy",
+  "white house",
+  "pena nieto",
+  "bad hombres",
+  "new president",
+  "phone call",
+  "trump",
+  "mexico",
+  "mexican",
+  "excerpt"
+]
 ```

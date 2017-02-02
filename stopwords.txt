@@ -100,6 +100,7 @@ ours  ourselves
 out
 over
 own
+said
 same
 shan't
 she
@@ -159,6 +160,7 @@ who's
 whom
 why
 why's
+will
 with
 won't
 would
